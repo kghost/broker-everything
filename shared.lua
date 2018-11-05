@@ -641,8 +641,8 @@ function ns.strWrap(text, limit, insetCount, insetChr, insetLastChr)
 		if tmp:len()<=limit then
 			result[i]=tmp;
 		else
-			i=i+1;
 			result[i]=str;
+			i=i+1;
 		end
 	end
 	return tconcat(result,"|n"..inset)

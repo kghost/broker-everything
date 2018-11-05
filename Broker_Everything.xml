@@ -33,6 +33,7 @@
 	<Script file="modules/difficulty.lua"/>
 	<Script file="modules/durability.lua"/>
 	<Script file="modules/emissaryquests.lua"/>
+	<Script file="modules/emissaryquests_bfa.lua"/>
 	<Script file="modules/equipment.lua"/>
 	<Script file="modules/followers.lua"/>
 	<Script file="modules/framenames.lua"/>

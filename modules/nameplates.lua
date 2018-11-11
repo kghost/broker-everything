@@ -122,7 +122,7 @@ module = {
 	}
 }
 
--- function module.options() return {} end
+function module.options() return {} end
 
 function module.init()
 	ttColumns = 6;
